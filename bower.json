@@ -1,5 +1,5 @@
 {
-  "name": "backbone_mediator",
+  "name": "backbone-mediator",
   "description": "Backbone plugin to add app-wide pub/sub.",
   "main": "dist/backbone-mediator.js",
   "authors": [
