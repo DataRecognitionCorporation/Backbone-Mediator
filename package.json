@@ -1,0 +1,16 @@
+{
+  "name": "backbone-mediator",
+  "version": "1.0.1",
+  "scripts": {
+    "build": "./node_modules/babel-cli/bin/babel.js backbone-mediator.js --out-file dist/backbone-mediator.js"
+  },
+  "main": "dist/backbone-mediator.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "backbone": "^1.4.1"
+  }
+}
